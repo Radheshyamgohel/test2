@@ -1,11 +1,15 @@
 
 
 ## About Laravel
+
 Neonix888 is a web application for provide different type of server currently provide IP Sweep functionality.
 
 ## How To Setup && Installation Project
+
 Requirements:
+
 PHP version : > 7.2.* && < 8.0.*
+
 DB: PhpMyAdmin
 
 Clone the code into your local directory 
@@ -32,6 +36,8 @@ It will create database table into your configer database
 
 ## How To Push Project
 
-**git add .
-git commit -m "commit message"
-git push origin master**
+**git add .**
+
+**git commit -m "commit message"**
+
+**git push origin master**
