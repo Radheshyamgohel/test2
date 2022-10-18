@@ -13,9 +13,8 @@ Clone the code into your local directory
 git clone https://github.com/developer-yii/neonix888.git
 
 After clone process done goto clone directory and run following command into the terminal or cmd
-`#0d1117`
+
 **composer install**
-`#0d1117`
 
 Get .env from your developer and paste it on your project directory
 
@@ -23,16 +22,16 @@ Create database for this project name neonix888 and set db config into the .env 
 
 once DB config setup done run the following command.
 
-php artisan migrate
+**php artisan migrate**
 
 Run the seeder for creating default record into the database.
 
-php artisan db:seed
+**php artisan db:seed**
 
 It will create database table into your configer database
 
 ## How To Push Project
 
-git add .
+**git add .
 git commit -m "commit message"
-git push origin master
+git push origin master**
