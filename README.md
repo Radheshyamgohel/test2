@@ -13,7 +13,7 @@ Clone the code into your local directory
 git clone https://github.com/developer-yii/neonix888.git
 
 After clone process done goto clone directory and run following command into the terminal or cmd
-composer install
+**composer install**
 
 Get .env from your developer and paste it on your project directory
 
